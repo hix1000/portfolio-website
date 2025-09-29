@@ -1,6 +1,10 @@
 .center {
     text-align: center;
 }
-.center h4 {
+h4 {
     color: dimgray;
+}
+
+.image {
+    max-width: 100%;
 }
