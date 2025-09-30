@@ -8,3 +8,7 @@ h4 {
 .image {
     max-width: 100%;
 }
+
+.padding {
+    padding-top: 20px;
+}
