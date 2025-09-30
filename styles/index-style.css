@@ -12,3 +12,7 @@ h4 {
 .padding {
     padding-top: 20px;
 }
+
+.lightbold {
+    font-style: italic;
+}
